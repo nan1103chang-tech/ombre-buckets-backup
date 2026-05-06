@@ -1,0 +1,14 @@
+{
+  "source_file": "dialogue.json：.txt",
+  "source_hash": "f215bd80dfc13975",
+  "total_chunks": 1,
+  "processed": 1,
+  "api_calls": 1,
+  "memories_created": 1,
+  "memories_merged": 0,
+  "memories_raw": 0,
+  "errors": [],
+  "status": "completed",
+  "started_at": "2026-04-23T14:12:19",
+  "updated_at": "2026-04-23T14:12:22"
+}
